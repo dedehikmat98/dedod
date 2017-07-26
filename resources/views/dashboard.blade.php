@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Halaman Dashboard</title>
+	<title>Dashboard</title>
 </head>
 <body>
-		Ini Halaman Dashboard
+		Ini Halaman Dashboard Saya
 </body>
 </html>
